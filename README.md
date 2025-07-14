@@ -37,29 +37,17 @@ A real-time, multiplayer online chess game where players can challenge friends o
 **📁 Project Structure (Basic)**
 
 online-chess-game/
-
 │
-
 ├── client/                  # Frontend files
-
 │   ├── index.html
-
 │   ├── styles.css
-
 │   └── app.js
-
 │
-
 ├── server/                  # Backend files
-
 │   ├── server.js
-
 │   └── gameLogic.js
-
 │
-
 ├── package.json
-
 └── README.md
 **⚙️ Setup Instructions**
 
