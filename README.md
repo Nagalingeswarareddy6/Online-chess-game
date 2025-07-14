@@ -38,17 +38,29 @@ A real-time, multiplayer online chess game where players can challenge friends o
 
 online-chess-game/
 │
+
 ├── client/                  # Frontend files
+
 │   ├── index.html
+
 │   ├── styles.css
+
 │   └── app.js
+
 │
+
 ├── server/                  # Backend files
+
 │   ├── server.js
+
 │   └── gameLogic.js
+
 │
+
 ├── package.json
+
 └── README.md
+
 **⚙️ Setup Instructions**
 
 **1. Clone the Repository**
